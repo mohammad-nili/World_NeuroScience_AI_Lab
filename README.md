@@ -5,8 +5,7 @@ A curated, open list of leading neuroscience ↔️ AI research laboratories wor
   <tr>
     <td><strong>Lab</strong></td>
     <td><strong>Location</strong></td>
-    <td><strong>One-line snapshot</strong></td>
-    <td><strong>Why it matters (neuro↔AI)</strong></td>
+    <td><strong>Neuro↔AI snapshot</strong></td>
     <td><strong>Key resources</strong></td>
     <td><strong>Link</strong></td>
   </tr>
@@ -15,7 +14,6 @@ A curated, open list of leading neuroscience ↔️ AI research laboratories wor
     <td>Allen Institute for Brain Science</td>
     <td>Seattle, USA</td>
     <td>World-class institute producing large-scale brain atlases and open datasets.</td>
-    <td>Provides richly annotated molecular, anatomical and functional datasets ideal for representation learning, model benchmarking, and multi-modal studies.</td>
     <td>Allen Brain Map datasets, cell-type atlases, APIs and programmatic access.</td>
     <td><a href="https://alleninstitute.org/division/brain-science/">alleninstitute.org</a></td>
   </tr>
@@ -24,7 +22,6 @@ A curated, open list of leading neuroscience ↔️ AI research laboratories wor
     <td>DeepMind — Neuroscience & Interdisciplinary Research</td>
     <td>London, UK</td>
     <td>Industry AI lab producing theory and empirical work connecting ML and neural computation.</td>
-    <td>Publishes algorithmic advances inspired by neuroscience (RL, attention, internal models) and open research that motivates computational hypotheses.</td>
     <td>Research papers, code releases (when available), and cross-disciplinary preprints.</td>
     <td><a href="https://deepmind.google/research/">deepmind.google/research</a></td>
   </tr>
@@ -33,7 +30,6 @@ A curated, open list of leading neuroscience ↔️ AI research laboratories wor
     <td>Gatsby Computational Neuroscience Unit (UCL)</td>
     <td>London, UK</td>
     <td>Academic center for theoretical and computational neuroscience with strong ML/statistics ties.</td>
-    <td>Offers rigorous mathematical models and frameworks useful for building biologically-plausible ML algorithms and principled theory→practice pipelines.</td>
     <td>Lecture notes, preprints, reproducible code accompanying papers, PhD/postdoc programs.</td>
     <td><a href="https://www.ucl.ac.uk/gatsby/">ucl.ac.uk/gatsby</a></td>
   </tr>
@@ -42,7 +38,6 @@ A curated, open list of leading neuroscience ↔️ AI research laboratories wor
     <td>McGovern Institute for Brain Research (MIT)</td>
     <td>Cambridge, MA, USA</td>
     <td>Institute blending engineering, imaging, neurotechnology and computational neuroscience.</td>
-    <td>Releases imaging datasets and neurotech that enable high-resolution comparisons between models and neural measurements.</td>
     <td>Imaging datasets, open-source neurotech projects, lab toolkits.</td>
     <td><a href="https://mcgovern.mit.edu/">mcgovern.mit.edu</a></td>
   </tr>
@@ -51,7 +46,6 @@ A curated, open list of leading neuroscience ↔️ AI research laboratories wor
     <td>Max Planck Institute for Biological Cybernetics</td>
     <td>Tübingen, Germany</td>
     <td>Leader in systems & computational neuroscience with quantitative experiments and theory.</td>
-    <td>Produces mechanistic hypotheses and datasets that are directly testable in both biological systems and artificial networks.</td>
     <td>Experimental datasets, computational modeling papers, seminars and collaboration programs.</td>
     <td><a href="https://www.kyb.tuebingen.mpg.de/en">kyb.tuebingen.mpg.de</a></td>
   </tr>
