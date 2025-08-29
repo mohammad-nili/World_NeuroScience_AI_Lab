@@ -4,6 +4,7 @@ A curated, open list of leading neuroscience ↔️ AI research laboratories wor
 <table>
   <tr>
     <td><strong>Country</strong></td>
+    <td><strong>City</strong></td>
     <td><strong>University / Institution</strong></td>
     <td><strong>Laboratory</strong></td>
     <td><strong>Research Area</strong></td>
@@ -12,6 +13,7 @@ A curated, open list of leading neuroscience ↔️ AI research laboratories wor
 
   <tr>
     <td>USA</td>
+    <td>Seattle</td>
     <td>Allen Institute</td>
     <td>Allen Institute for Brain Science</td>
     <td>Large-scale brain atlases, cell-type mapping, open neuroscience datasets</td>
@@ -20,6 +22,7 @@ A curated, open list of leading neuroscience ↔️ AI research laboratories wor
 
   <tr>
     <td>UK</td>
+    <td>London</td>
     <td>DeepMind</td>
     <td>Neuroscience & Interdisciplinary Research</td>
     <td>AI–neuroscience integration, learning algorithms, neural computation</td>
@@ -28,6 +31,7 @@ A curated, open list of leading neuroscience ↔️ AI research laboratories wor
 
   <tr>
     <td>UK</td>
+    <td>London</td>
     <td>University College London (UCL)</td>
     <td>Gatsby Computational Neuroscience Unit</td>
     <td>Theoretical neuroscience, probabilistic modeling, machine learning</td>
@@ -36,6 +40,7 @@ A curated, open list of leading neuroscience ↔️ AI research laboratories wor
 
   <tr>
     <td>USA</td>
+    <td>Cambridge, MA</td>
     <td>Massachusetts Institute of Technology (MIT)</td>
     <td>McGovern Institute for Brain Research</td>
     <td>Neurotechnology, computational neuroscience, imaging, brain disorders</td>
@@ -44,6 +49,7 @@ A curated, open list of leading neuroscience ↔️ AI research laboratories wor
 
   <tr>
     <td>Germany</td>
+    <td>Tübingen</td>
     <td>Max Planck Society</td>
     <td>Max Planck Institute for Biological Cybernetics</td>
     <td>Systems neuroscience, computational models, quantitative experiments</td>
